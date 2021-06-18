@@ -16,6 +16,9 @@
   <p align="center">
     An awesome hand gesture detection project for you to be creative! Imagination is the limit to do with this project.
     <br />
+  
+  ![hand gesture 1](https://user-images.githubusercontent.com/65129467/122554376-b8bd9b80-d05a-11eb-9f25-0f931afb8c1c.jpg)
+
     <br />
     <a href="https://github.com/AR-Ashraf/awesome-hand-gesture-detection/issues">Report Bug</a>
     ·
@@ -66,6 +69,9 @@ If you are here because:
 * You love AI
 
 Then you are at the right repo. Let's build something amazing then. If you get the time and love my repo then please consider giving it a star and follow :)
+
+![hand gesture 2](https://user-images.githubusercontent.com/65129467/122554456-d428a680-d05a-11eb-820d-c4e443c0213b.jpg)
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
