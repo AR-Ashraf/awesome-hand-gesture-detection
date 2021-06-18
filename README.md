@@ -15,10 +15,10 @@
 
   <p align="center">
     An awesome hand gesture detection project for you to be creative! Imagination is the limit to do with this project.
-    <br />
   
   ![hand gesture 1](https://user-images.githubusercontent.com/65129467/122554376-b8bd9b80-d05a-11eb-9f25-0f931afb8c1c.jpg)
-
+  
+    <br />
     <br />
     <a href="https://github.com/AR-Ashraf/awesome-hand-gesture-detection/issues">Report Bug</a>
     ·
